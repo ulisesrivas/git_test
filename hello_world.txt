@@ -1,0 +1,2 @@
+# git_test_2
+Adding more text to a separate file to play with git.
